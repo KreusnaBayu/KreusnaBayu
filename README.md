@@ -48,7 +48,7 @@
 
 ---
 
-### 📌 Pinned Projects
+<!-- ### 📌 Pinned Projects
 <!-- Bisa kamu aktifkan jika kamu punya beberapa repositori unggulan -->
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KreusnaBayu&repo=nama-repo-kamu&theme=tokyonight)](https://github.com/KreusnaBayu/nama-repo-kamu)
