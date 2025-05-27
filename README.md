@@ -45,3 +45,18 @@
 ![KreusnaBayu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KreusnaBayu&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KreusnaBayu&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=KreusnaBayu&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+### 📌 Pinned Projects
+<!-- Bisa kamu aktifkan jika kamu punya beberapa repositori unggulan -->
+<!--
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KreusnaBayu&repo=nama-repo-kamu&theme=tokyonight)](https://github.com/KreusnaBayu/nama-repo-kamu)
+-->
+
+---
+
+<!---
+KreusnaBayu/KreusnaBayu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
